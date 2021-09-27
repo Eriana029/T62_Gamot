@@ -8,7 +8,7 @@ int main()
     int menu, pay, change, price;
     string drink;
 
-    cout << "Select your order" << endl << endl;
+    cout << "please select your order" << endl << endl;
 
     cout << "[A] Coke (50)" << endl;
     cout << "[B] Pepsi (40)" << endl;
