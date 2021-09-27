@@ -10,9 +10,9 @@ int main()
 
     cout << "please select your order" << endl << endl;
 
-    cout << "[A] Coke (50)" << endl;
-    cout << "[B] Pepsi (40)" << endl;
-    cout << "[C] Royal (30)" << endl << endl;
+    cout << "[1] Coke (50)" << endl;
+    cout << "[2] Pepsi (40)" << endl;
+    cout << "[3] Royal (30)" << endl << endl;
 
     cout << "Menu: ";
     cin >> menu;
